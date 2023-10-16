@@ -1,0 +1,13 @@
+2023-10-16 15:00:09,125 - logger - DEBUG - Epoch: 0 	Training Loss: 0.0004375547 	Training Accuracy: 0.653140 	Validation Loss: 0.0013585981 	Validation  Accuracy: 0.635479 
+2023-10-16 15:44:17,234 - logger - DEBUG - Epoch: 1 	Training Loss: 0.0004070409 	Training Accuracy: 0.688889 	Validation Loss: 0.0012723783 	Validation  Accuracy: 0.688263 
+2023-10-16 16:33:14,797 - logger - DEBUG - Epoch: 2 	Training Loss: 0.0003746693 	Training Accuracy: 0.724845 	Validation Loss: 0.0011994781 	Validation  Accuracy: 0.692817 
+2023-10-16 17:16:27,472 - logger - DEBUG - Epoch: 3 	Training Loss: 0.0003410318 	Training Accuracy: 0.758385 	Validation Loss: 0.0011816067 	Validation  Accuracy: 0.730491 
+2023-10-16 18:07:19,728 - logger - DEBUG - Epoch: 4 	Training Loss: 0.0002986689 	Training Accuracy: 0.798482 	Validation Loss: 0.0013502589 	Validation  Accuracy: 0.749327 
+
+2023-10-16 18:09:22,137 - logger - PATH - C:\Users\Ninad\OneDrive\Desktop\Modulation_Spectrogram_resnet\Residual-Modulation-Spectrogram\Models\Lambani_Train_Soliga_Test\best_model\best_checkpoint.pt  C:\Users\Ninad\OneDrive\Desktop\Modulation_Spectrogram_resnet\Residual-Modulation-Spectrogram\Datasets\Combined_cmu\Test\data.csv
+2023-10-16 18:48:50,989 - logger - EER - 0.22481161504627295
+2023-10-16 18:48:51,057 - logger - ACC - 0.7477089442815249
+
+2023-10-16 18:59:38,678 - logger - PATH - C:\Users\Ninad\OneDrive\Desktop\Modulation_Spectrogram_resnet\Residual-Modulation-Spectrogram\Models\Lambani_Train_Soliga_Test\best_model\best_checkpoint.pt  C:\Users\Ninad\OneDrive\Desktop\Modulation_Spectrogram_resnet\Residual-Modulation-Spectrogram\Datasets\Combined_cmu\Train\data.csv
+2023-10-16 19:17:24,206 - logger - EER - 0.18771253794748305
+2023-10-16 19:17:24,333 - logger - ACC - 0.7356797791580401
